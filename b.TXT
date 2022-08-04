@@ -1,1 +1,1 @@
-life is challenge!
+ b.txt edited againgit add anything.txt
